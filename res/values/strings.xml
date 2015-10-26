@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">神武助手</string>
+    <string name="tujian">查看怪物图鉴</string>
+    <string name="ih_search_hint">输入怪物名称</string>
+	<string name="ih_search_button">搜索</string>
+	<string name="name">怪物名称</string>
+	<string name="attack">攻击资质</string>
+	<string name="defence">防御资质</string>
+	<string name="physique">体力资质</string>
+	<string name="magic">法力资质</string>
+	<string name="speed">速度资质</string>
+	<string name="skill">技能</string>
+	<string name="baoshi">宝石合成</string>
+	<string name="jingyan">经验计算</string>
+	<string name="xiulian">修炼经验计算</string>
+	<string name="gem1">单颗宝石</string>
+	<string name="gem2">一级宝石价格：</string>
+	<string name="gem3">确定</string>
+	<string name="gem4">目标宝石等级：</string>
+	<string name="gem5">所需费用：</string>
+	<string name="gem6">一套宝石</string>
+	<string name="gem7">所需费用：</string>
+	<string name="xiulian1">修炼经验计算器</string>
+	<string name="xiulian2">当前修炼等级：</string>
+	<string name="xiulian3">目标修炼等级：</string>
+	<string name="xiulian4">所需修炼经验：</string>
+	<string name="xiulian5">单个修炼</string>
+	<string name="xiulian6">所有修炼</string>
+	<string name="xiulian7">人物攻击修炼</string>
+	<string name="xiulian8">其它类型修炼</string>
+	<string name="pw1">问题反馈</string>
+	<string name="pw2">关于</string>
+	<string name="about1">关于神武助手</string>
+	<string name="about2">    神武助手是一款针对网游《神武：逍遥外传》的辅助APP，提供了怪物图鉴查询、宝石合成计算、修炼经验查询三个功能。该软件仅供开发学习用途，相应源码已上传GIT HUB。由于作者比较懒，怪物图鉴部分数据库只上传了‘大海龟’以测试。其余怪物数据上传时间不定。(┬＿┬)</string>
+	<string name="bug1">问题反馈</string>
+	<string name="bug2">如有任何问题或建议，请反馈。\n制作者ID：HawX\nQQ：1553453254\n邮箱：1553453254@qq.com</string>
+</resources>

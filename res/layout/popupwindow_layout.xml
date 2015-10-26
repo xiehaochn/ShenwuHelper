@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <Button
+        android:id="@+id/pw_button1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-4dp"
+        android:text="@string/pw1"
+        android:background="@drawable/background_anniu"
+        android:textColor="#FAFFF0"
+        android:textSize="12sp"
+        />
+    <Button
+        android:id="@+id/pw_button2" 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-14dp"
+        android:text="@string/pw2"
+        android:background="@drawable/background_anniu"
+        android:textColor="#FAFFF0"
+        android:textSize="12sp"
+        />
+
+</LinearLayout>

@@ -25,12 +25,12 @@ public class IllustratedHandbook extends Activity implements OnClickListener {
 		setListener();
 	}
 	private IllustratedHandbookDB dbHelper;
+	private final static String DATABASE_NAME ="ILLUSTRATEDHANDBOOK.db";
+	private final static int DATABASE_VERSION =2;
 	private void creatdb() {
 		// TODO Auto-generated method stub
-		dbHelper=new IllustratedHandbookDB(this,"ILLUSTRATEDHANDBOOK.db",null,1);
-		dbHelper.getReadableDatabase();
-
-		
+		dbHelper=new IllustratedHandbookDB(this,DATABASE_NAME,null,DATABASE_VERSION );
+		dbHelper.getReadableDatabase();	
 	}
 	private EditText ih_search_et;
 	private ImageButton ih_search_button;

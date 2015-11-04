@@ -1,0 +1,2 @@
+﻿INSERT INTO IH_table(ih_id,ih_name,ih_attack,ih_defence,ih_physique,ih_magic,ih_speed,ih_skill) values ('1000001','大海龟','900-1125','800-1000','900-1125','700-875','1100-1375','防御、水系吸收、幸运、慧根');
+INSERT INTO IH_table(ih_id,ih_name,ih_attack,ih_defence,ih_physique,ih_magic,ih_speed,ih_skill) values ('1000002','大耳兔','950-1206','800-1016','900-1143','700-889','1100-1397','敏捷、反击、灵性');

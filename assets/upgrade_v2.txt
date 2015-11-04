@@ -1,0 +1,1 @@
+﻿INSERT INTO IH_table(ih_id,ih_name,ih_attack,ih_defence,ih_physique,ih_magic,ih_speed,ih_skill) values ('1000003','大蝙蝠','1100-1397','800-1016','900-1143','800-1016','1150-146','敏捷、吸血、夜战、火系弱点');

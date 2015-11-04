@@ -25,6 +25,7 @@
         android:padding="10dp"
         />
     <RelativeLayout
+        android:id="@+id/rl1"
        android:layout_height="wrap_content"
 	   android:layout_width="wrap_content"
 	   android:background="@drawable/table_frame_gray"
@@ -147,4 +148,13 @@
 
     </RelativeLayout>
 </RelativeLayout>
+<LinearLayout
+    android:id="@+id/adLayout_xiulian"
+    android:layout_below="@id/rl1"
+    android:layout_marginTop="30dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+</LinearLayout>
 </RelativeLayout>

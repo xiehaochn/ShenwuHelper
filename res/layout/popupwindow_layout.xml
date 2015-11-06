@@ -23,5 +23,15 @@
         android:textColor="#FAFFF0"
         android:textSize="12sp"
         />
+    <Button
+        android:id="@+id/pw_button3" 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-14dp"
+        android:text="@string/pw3"
+        android:background="@drawable/background_anniu"
+        android:textColor="#FAFFF0"
+        android:textSize="12sp"
+        />
 
 </LinearLayout>
